@@ -1,5 +1,5 @@
 # currency-classification--ML
-currency classification for visually impaired people with audio integration using Transfer Learning.
+Currency classification for visually impaired people with audio integration using Transfer Learning.
 Uses FastAI to fine tune a pretrained model of ResNet 34.
 
 
